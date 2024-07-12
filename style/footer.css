@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+footer {
+    background-color: rgb(42, 32, 16);
+    color: white;
+    text-align: center;
+    padding: 2%;
+    font-size: 2vw;
+}
